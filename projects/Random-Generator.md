@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Random Generator
-permalink: /projects/Random-Generator
+permalink: /projects/Random-Generator/
 ---
 
 # Random Generator
