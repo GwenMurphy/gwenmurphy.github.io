@@ -4,4 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-Stuff about projects of mine will go here, when I get round to actually doing so.
+### Projects
+
+Work-related projects that have been committed to GitHub will be displayed here, and you can view them below once I have added them.
