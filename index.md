@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-### Indtoduction
+### Introduction
 
 Hi, I'm Gwen. This is my website for more work-related projects of mine, which may include portfolios.
 
