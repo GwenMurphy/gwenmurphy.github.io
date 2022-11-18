@@ -10,9 +10,4 @@ The circumstances in question was that there is, as of original publication of t
 
 <a href="https://github.com/GwenMurphy/Random-Generator-Football-World-Cup-2022" target="_blank">The GitHub repository can be viewed here.</a>
 
-The backend has been completed, but the frontend still needs doing. Once it has been completed, it shall be displayed below. For now, have this random picture of a kitten to fill the gap.
-
-<center><img src="https://nationaltoday.com/wp-content/uploads/2020/07/Kitten-640x514.jpg"></center>
-The kitten will be kept here as a good luck charm for the time being.
-
-<center><iframe src="{{ site.baseurl }}/Random-Generator-Football-World-Cup-2022/" width="750" height="750"></iframe></center>
+<center><iframe src="{{ site.baseurl }}/Random-Generator-Football-World-Cup-2022/client/public/index.html" width="750" height="750"></iframe></center>
