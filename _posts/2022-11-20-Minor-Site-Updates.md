@@ -3,6 +3,7 @@ layout: post
 title: Minor Site Updates
 date: 2022-11-20 01:10 +0000
 categories: [Website]
+excerpt_separator: <!--more-->
 ---
 
 I have done some minor updates to the website, mainly the addition of categories to the post and the visibility of the time of day in blog posts.
