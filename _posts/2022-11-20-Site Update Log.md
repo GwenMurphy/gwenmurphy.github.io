@@ -2,14 +2,21 @@
 layout: post
 title: Site Update Log
 date: 2022-11-20 01:10 +0000
-updated: 2022-11-21 16:42 +0000
+updated: 2022-11-21 19:09 +0000
 categories: [Website]
 excerpt_separator: <!--more-->
-updatenumber: 2
+updatenumber: 3
 ---
 
 This blog post will serve as a log for when the site has been updated. This log has been updated <span class="updatenumber">{{ page.updatenumber }}</span> times as of <span class="updated">{{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</span>.
 <!--more-->
+To skip to the bottom of the page, [click here](#bottom).
+---
+
+#### 2022-11-21 19:09 • Blog Posts Consolidated
+
+The blog posts have been consolidated such that there only exists one blog post for logging the updating of the site, namely this one.
+
 #### 2022-11-21 16:42 • About Page Written
 
 The About page has been written.  It will likely be updated in the future to make it look better.
@@ -22,4 +29,4 @@ I have done some minor updates to the website, mainly the addition of categories
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3udtdUUDUFXIxjasrblplu?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-The health and safety guy at the office is really into prog rock. Odds are he'd like Django Django too. I found them because of GTA V since their song "Waveforms" plays on one of the radio stations.
+The health and safety guy at the office is really into prog rock. Odds are he'd like Django Django too. I found them because of GTA V since their song "Waveforms" plays on one of the radio stations<a href="#bottom">.</a>
