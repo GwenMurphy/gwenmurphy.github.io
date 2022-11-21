@@ -5,9 +5,10 @@ date: 2022-11-20 01:10 +0000
 updated: 2022-11-21 16:42 +0000
 categories: [Website]
 excerpt_separator: <!--more-->
+updatenumber: 2
 ---
 
-This blog post will serve as a log for when the site has been updated. This log has been updated {{ page.updatenumber }} as of {{ page.updated }}.
+This blog post will serve as a log for when the site has been updated. This log has been updated <span>{{ page.updatenumber }}</span> as of <span>{{ page.updated }}</span>.
 <!--more-->
 #### 2022-11-21 16:42 • About Page Written
 
