@@ -2,6 +2,7 @@
 layout: post
 title: Random Generator - Backend
 date: 2022-11-18 00:30 +0000
+updated: 2022-11-18 00:30 +0000
 categories: [Python, Random Generators, Projects]
 excerpt_separator: <!--more-->
 ---
