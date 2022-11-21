@@ -10,12 +10,13 @@ permalink: /contact/
       <input type="hidden" name="_template" value="box">
       <input type="text" name="_honey" style="display:none">
       <input type="hidden" name="_subject" value="Form Submission from {{ site.baseurl }}">
+      <input type="hidden" name="_next" value="{{ site.baseurl }}/thankyou.html">
       <div class="form-group">
         <div class="form-row">
-          <div class="col">
+          <div class="col" width="400">
             <input type="text" name="name" class="form-control" placeholder="Full Name" required>
           </div>
-          <div class="col">
+          <div class="col" width="400">
             <input type="email" name="email" class="form-control" placeholder="Email Address" required>
           </div>
         </div>
