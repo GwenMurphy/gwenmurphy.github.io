@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Gwen! I'm an Apprentice IT Technicial from the United Kingdom.
+Hi, I'm Gwen! I'm an Apprentice IT Technician from the United Kingdom.
 
 ### Interests
 
