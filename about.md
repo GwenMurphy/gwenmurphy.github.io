@@ -20,6 +20,8 @@ I am also interested in computers and I have a couple of Raspberry Pi 4B's handy
 
 I also like watching the rugby, especially if it's Wales winning in the Six Nations.
 
+### What am I doing these days?
+
 I am currently learning Welsh and French on Duolingo, though given that linguistics is not my strong suit, I am doing so with varying levels of success and at a rather slow pace.
 
 I am also learning Python, and I have already put together at least one project in Python, which I have written about on the [Projects page]({{ site.baseurl }}/projects/) of my site if you wish to browse them.
