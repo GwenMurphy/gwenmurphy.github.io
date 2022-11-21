@@ -16,7 +16,7 @@ I am also interested in films, though I like only certain genres. I am a fan of 
 
 I am also interested in television, though I lean quite a bit towards science fiction shows such as The Expanse and the various Star Trek shows. Voyager, Discovery, and Picard are my personal favourites.
 
-I am also interested in computers and I have a couple of Raspberry Pi 4B's handy that I like to use for personal projects of mine. As of writing, I use them to self-host a few things I think I'll fgind handy. I'll admit, I had to consult various guides to get it working, but I managed it.
+I am also interested in computers and I have a couple of Raspberry Pi 4B's handy that I like to use for personal projects of mine. As of writing, I use them to self-host a few things I think I'll find handy. I'll admit, I had to consult various guides to get it working, but I managed it.
 
 I also like watching the rugby, especially if it's Wales winning in the Six Nations.
 
