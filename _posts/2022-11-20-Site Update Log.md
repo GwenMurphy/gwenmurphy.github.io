@@ -2,7 +2,7 @@
 layout: post
 title: Site Update Log
 date: 2022-11-20 01:10 +0000
-updated: 2022-11-21 19:09 +0000
+updated: 2022-11-21 20:20 +0000
 categories: [Website]
 excerpt_separator: <!--more-->
 updatenumber: 3
@@ -12,6 +12,10 @@ This blog post will serve as a log for when the site has been updated. This log 
 <!--more-->
 To skip to the bottom of the page, [click here](#bottom).
 <hr>
+
+#### 2022-11-21 20:20 • Contact Form Added
+
+I have added a contact form to the site should it be needed.
 
 #### 2022-11-21 19:09 • Blog Posts Consolidated
 
