@@ -38,12 +38,12 @@ layout: default
   -->
 
   <div class="date">
-    Published on {{ page.date | date: "%A, %B %e, %Y %H:%M" }}
+    Published on {{ page.date | date: "%A, %B %e, %Y at %H:%M" }}
     
   </div>
 
   <div class="updated">
-    Last updated on {{ page.updated | date: "%A, %B %e, %Y %H %M" }}
+    Last updated on {{ page.updated | date: "%A, %B %e, %Y at %H %M" }}
   </div>
 
   {% include disqus.html %}
