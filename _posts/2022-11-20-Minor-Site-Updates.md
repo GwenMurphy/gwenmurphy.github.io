@@ -2,7 +2,7 @@
 layout: post
 title: Minor Site Updates
 date: 2022-11-20 01:10 +0000
-updated: 2022-11-20 01:10 +00:00
+updated: 2022-11-20 01:10 +0000
 categories: [Website]
 excerpt_separator: <!--more-->
 ---
