@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 updatenumber: 2
 ---
 
-This blog post will serve as a log for when the site has been updated. This log has been updated <span>{{ page.updatenumber }}</span> as of <span>{{ page.updated }}</span>.
+This blog post will serve as a log for when the site has been updated. This log has been updated <span class="updatenumber">{{ page.updatenumber }}</span> times as of <span class="updated">{{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</span>.
 <!--more-->
 #### 2022-11-21 16:42 • About Page Written
 
