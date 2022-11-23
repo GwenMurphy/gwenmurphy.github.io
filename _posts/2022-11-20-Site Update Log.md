@@ -2,16 +2,20 @@
 layout: post
 title: Site Update Log
 date: 2022-11-20 01:10 +0000
-updated: 2022-11-21 20:20 +0000
+updated: 2022-11-23 13:20 +0000
 categories: [Website]
 excerpt_separator: <!--more-->
-updatenumber: 4
+updatenumber: 5
 ---
 
 This blog post will serve as a log for when the site has been updated. This log has been updated <span class="updatenumber">{{ page.updatenumber }}</span> times as of <span class="updated">{{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</span>.
 <!--more-->
 To skip to the bottom of the page, [click here](#bottom).
 <hr>
+
+#### 2022-11-23 13:20 • Cosmetic Changes to Site
+
+I've cosmetically changed the site by increasing the width in the <em>.container</em> tag in the styles.css file. It has been moved from 740px to 1000px. Although it is a small change, it seems to be having a big impact on how content is displayed on the site. This should be particularly helpful when it comes to displaying content pertaining to my projects within iframe tags. I have had a look at the site after the cosmetic changes and I like it enough that I will be making the same edits to my personal site in due course.
 
 #### 2022-11-21 20:20 • Contact Form Added
 
